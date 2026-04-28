@@ -10,6 +10,7 @@ namespace ZellyDevGames.Audio
         public AudioClip clip;
         public float spatialBlend;
         public float volume;
-        public float simultaneousInstanceLimit;
+        public int simultaneousInstanceLimit;
+        public bool loop;
     }
 }
