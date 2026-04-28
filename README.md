@@ -206,7 +206,6 @@ If all pooled sources are busy, additional playback requests are ignored.
 
 ## Notes and Limitations
 
-- This service does not currently support looping SFX lifecycle management.
 - This service does not currently expose mixer group, pitch randomization, rolloff, min distance, max distance, or priority settings through `SFXEntry`.
 
 ## License
