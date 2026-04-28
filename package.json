@@ -1,0 +1,21 @@
+﻿{
+  "name": "com.github.zellydev-games.audio.sfx",
+  "version": "1.0.0",
+  "displayName": "SFX Monoservice",
+  "description": "SFX manager for Monostate with 2D and positional audio, object pooling, and clip limiting",
+  "unity": "6000.3",
+  "author": {
+    "name": "ZellyDev Games",
+    "url": "https://zellydev.com"
+  },
+  "dependencies": {
+    "com.github.zellydev-games.monoservice":  "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "A minimal example scene or setup.",
+      "path": "Samples~/Basic Example"
+    }
+  ]
+}
